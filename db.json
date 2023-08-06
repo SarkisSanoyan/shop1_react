@@ -1,0 +1,12 @@
+{
+    "products": [
+      { "id": 1, "title": "MacBook Air M1", "descr": "typicode", "price": 880000, "src": "https://app-room76.ru/wp-content/uploads/2019/10/air13-19-sg-2.png" },
+      { "id": 2, "title": "Dell VOSTRO 5620", "descr": "typicode", "price": 786000, "src": "https://laptopmedia.com/wp-content/uploads/2021/06/5-1-e1622724668275.jpeg" },
+      { "id": 3, "title": "Acer Nitro 5", "descr": "typicode", "price": 645000, "src": "https://avatars.mds.yandex.net/get-mpic/4303532/img_id9112756675957349965.jpeg/orig" },
+      { "id": 4, "title": "Creator 7i (15, Intel)", "descr": "typicode", "price": 580000, "src": "https://www.notebookcheck-ru.com/fileadmin/_processed_/c/9/csm_Lenovo_Yoga_Creator_7_15IMH05_Ansicht2_b779153bf1.jpg" },
+      { "id": 5, "title": "ASUS Zenbook Pro 17", "descr": "typicode", "price": 1134000, "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Zenbook_Pro_17_UM6702_Glass_Product_photo_02.png" },
+      { "id": 6, "title": "Msi ge76 raider", "descr": "typicode", "price": 880000, "src": "https://tehnoteca.ru/img/2058/2057905/msi_ge76_raider_11uh_ge76_11uh_613ua_6.jpg" },
+      { "id": 7, "title": "Galaxy Book2 Pro 360", "descr": "typicode", "price": 689000, "src": "https://media.power-cdn.net/images/h-b6704b7a6e57152f132f35bff0487d10/products/1180850/1180850_17_1200x1200_w_g.jpg" },
+      { "id": 8, "title": "Toshiba NB255-N250", "descr": "typicode", "price": 295000, "src": "https://otziv-otziv.ru/assets/cache/images/product/11/103/otzyvy-toshiba-nb255-n250-600x600-acc.jpg" }
+    ]
+}
